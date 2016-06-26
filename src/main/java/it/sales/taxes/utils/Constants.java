@@ -12,8 +12,4 @@ public class Constants {
     	return result;
     }
 	
-	public static double roundTo100(double number) {
-		return  Math.round(number * 100.0) / 100.0;
-	}
-
 }
